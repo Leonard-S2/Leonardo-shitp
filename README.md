@@ -1,5 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Leonardo-shitp)](https://github.com/Leonardo-shitp/Leonardo-shitp)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leonardo-shitp)](https://github.com/Leonardo-shitp/Leonardo-shitp)
+
 <!--
 **Leonardo-shitp/Leonardo-shitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
