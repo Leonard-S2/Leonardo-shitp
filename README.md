@@ -2,9 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-shitp&langs_count=8)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-shitp&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-shitp&langs_count=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Leonardo-shitp/Leonardo-shitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
